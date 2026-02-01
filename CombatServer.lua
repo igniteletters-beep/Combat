@@ -1,5 +1,5 @@
---Please i used a module script like entity service just for some organization please don't decline my application because of that
---I can give a link to the module aswell if you want to view it but please do not decline because of this "https://github.com/igniteletters-beep/Combat/blob/main/EntityServer.lua"
+--i used a module script like entity service just for some organization
+--I can give a link to the module aswell if you want to view it "https://github.com/igniteletters-beep/Combat/blob/main/EntityServer.lua"
 
 --First we will get all of the variables
 local Players = game:GetService("Players")
